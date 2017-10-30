@@ -1,0 +1,13 @@
+{
+  "id": "vk",
+  "name": "Vk",
+  "version": "1.0.3",
+  "description": "vk.com messenger",
+  "main": "index.js",
+  "author": "Pasha R <radioaktive@hotmail.ru>, Ilia Z, ",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://vk.com/",
+    "hasNotificationSound": true
+  }
+}
