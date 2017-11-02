@@ -7,7 +7,7 @@
   "author": "Pasha R <radioaktive@hotmail.ru>, Ilia Z, ",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://vk.com/",
+    "serviceURL": "https://m.vk.com/mail",
     "hasNotificationSound": true
   }
 }
